@@ -1,5 +1,5 @@
-# Exercícios de Python - Básico ao Avançado
-Este repositório contém uma série de exercícios de programação em Python que foram criados com o objetivo de treinamento pessoal. Eles cobrem uma gama de níveis de dificuldade, desde o básico até o avançado, e foram desenvolvidos para aprimorar minhas habilidades de programação e compreensão de conceitos fundamentais da linguagem Python.
+# Exercícios de Python - Básico e Intermediário
+Este repositório contém uma série de exercícios de programação em Python que foram criados com o objetivo de treinamento pessoal. Eu desenvolvi eles para aprimorar minhas habilidades de programação e compreensão de conceitos fundamentais da linguagem Python.
 
 # Sobre os Códigos
 Autorais: Todos os códigos são de minha autoria e foram feitos de forma independente. O objetivo principal é a prática e o aprendizado contínuo.
@@ -43,9 +43,4 @@ Aqui está um exemplo de um exercício simples que converte uma temperatura de C
 # Estrutura
 Exercícios Básicos: Abarcam conceitos como variáveis, tipos de dados, condicionais, laços de repetição e funções simples.
 Exercícios Intermediários: Envolvem manipulação de listas, dicionários, funções mais complexas, e integração entre módulos.
-Exercícios Avançados: Englobam conceitos como manipulação de arquivos, orientações a objetos, e algoritmos mais sofisticados.
-
-# Como Usar
-Sinta-se à vontade para explorar os códigos.
-Execute e modifique conforme necessário.
 
