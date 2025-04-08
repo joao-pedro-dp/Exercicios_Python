@@ -69,11 +69,11 @@ Aqui está um exemplo simples de exercício que converte Celsius para Fahrenheit
 
 1️⃣ Clone o repositório para o seu ambiente local:
 
-        git clone https://github.com/seu-usuario/seu-repositorio.git
+        git clone https://github.com/joao-pedro-dp/Exercicios_Python.git
         
 2️⃣ Acesse a pasta desejada:
 
-        cd nome-do-projeto
+        cd "nome"
         
 3️⃣ Execute os exercícios diretamente no terminal ou em um ambiente como Jupyter Notebook.
 
